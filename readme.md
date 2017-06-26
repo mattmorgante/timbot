@@ -1,6 +1,6 @@
 # How To 
 
-* start by cloning this folder (git clone [URL]) in the command line 
+* start by cloning this folder (git clone https://github.com/mattmorgante/timbot.git) in the command line 
 * then cd into this folder
 * Install python v2.7 or higher 
 * Add your username and password on line 14 
